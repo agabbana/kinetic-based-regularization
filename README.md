@@ -84,8 +84,14 @@ print(f"Predictions: {predictions}")
 @article{kinetic-based-regularization,
   title   = {A kinetic-based regularization method for data science applications},
   author  = {Ganguly, Abhisek and Gabbana, Alessandro and Rao, Vybhav and Succi, Sauro and Ansumali, Santosh},
-  journal = {arXiv preprint arXiv:2503.04857},
-  year    = {2025}
+  journal = {Machine Learning: Science and Technology},
+  publisher = {IOP Publishing},
+  volume = {6},
+  number = {3},
+  pages = {035035},
+  month = {aug},
+  year = {2025},
+  doi = {10.1088/2632-2153/adf93a}
 }
 
 ```
